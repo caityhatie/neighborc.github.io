@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Art Style Transfer using Convolutional Neural Networks](/sample_page)
+<img src="images/PtoStarry.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Robot Vision and Mapping](/pdf/sample_presentation.pdf)
+<img src="images/ObjectDetection.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Image Reconstruction Using Sparse Approximation](/pdf/sample_presentation.pdf)
+<img src="images/lena_best.png?raw=true"/>
 
 ---
 
